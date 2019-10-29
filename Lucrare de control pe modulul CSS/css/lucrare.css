@@ -1,0 +1,46 @@
+.div{
+	border: 150px #6e0404;
+	width: 50%;
+	height:120px;
+	text-align: right;
+	font-weight: bold;
+
+
+}
+
+img{
+	border: 20px #78001c;
+	height:100px;
+
+
+    float: left; 
+    margin: 0 1em 1em 0; 
+
+}
+nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background-color: #78001c;
+
+}
+nav ul.menu li{
+	display: inline-block;
+	width: 24%;
+}
+nav ul li{
+	background: #00a383;
+}
+
+nav ul li a{
+	display: block;
+	background: #78001c;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+}
+
+nav ul li a:hover{
+	background: #0031a3
+}
